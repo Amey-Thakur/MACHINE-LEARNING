@@ -4,6 +4,7 @@
 ## Assignments
 
   - ML [Assignment - 1](https://github.com/Amey-Thakur/MACHINE-LEARNING/blob/main/Assignments/Amey_B-50_ML_Assignment-1.pdf)
+  - ML [Assignment - 2](https://github.com/Amey-Thakur/MACHINE-LEARNING/blob/main/Assignments/Amey_B-50_ML_Assignment-2.pdf)
 
 ## Quizzes
 
