@@ -12,6 +12,7 @@
 
  - [Blueprint](https://github.com/Amey-Thakur/MACHINE-LEARNING/blob/main/Blueprint%20(ML).png)
  - [Semester 6 Timetable](https://github.com/Amey-Thakur/MACHINE-LEARNING/blob/main/SEMESTER%20VI.jpeg)
+ - Department Level Optional Subject Choice [Machine Learning](https://github.com/Amey-Thakur/MACHINE-LEARNING/blob/main/Department%20level%20subject%20choice%20for%20TE%20Sem%20VI_%20FH%202021.pdf)
 
 ## Assignments
 
