@@ -41,4 +41,3 @@
 
 ## Submission Report
  - [Report](https://github.com/Amey-Thakur/MACHINE-LEARNING/blob/main/Submission%20Report/Amey_B-50_ML_Term_Work_Submission_Report.pdf)
-
