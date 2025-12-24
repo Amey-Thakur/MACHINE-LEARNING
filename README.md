@@ -115,14 +115,14 @@ Academic assignments for comprehensive learning and practice:
 
 ML-specific quizzes conducted during the course:
 
-| # | Quiz | Description | Marks |
+| # | Quiz | Topics | Marks |
 |:-:|:---|:---|:---:|
-| 1 | [**Quiz 1**](Quizzes/Unit%201%20-%20Introduction.pdf) | Quiz - Introduction on Machine Learning | 10/10 |
-| 2 | [**Quiz 2**](Quizzes/Unit%202%20-%20Neural%20Network.pdf) | Quiz on Neural Network | 10/10 |
-| 3 | [**Quiz 3**](Quizzes/Unit%203%20-%20Optimization%20Techniques.pdf) | Quiz on Optimization Techniques | 10/10 |
-| 4 | [**Quiz 4**](Quizzes/Unit%204%20-%20Regression%20%26%20Tree.pdf) | Quiz on Regression & Tree | 10/10 |
-| 5 | [**Quiz 5**](Quizzes/Unit%205%20-%20Classification%20%26%20Clustering.pdf) | Quiz on Classification & Clustering | 10/10 |
-| 6 | [**Quiz 6**](Quizzes/Unit%206%20-%20PCA.pdf) | Quiz on PCA | 10/10 |
+| 1 | [**Quiz 1**](Quizzes/Unit%201%20-%20Introduction.pdf) | Introduction on Machine Learning | 10/10 |
+| 2 | [**Quiz 2**](Quizzes/Unit%202%20-%20Neural%20Network.pdf) | Neural Network | 10/10 |
+| 3 | [**Quiz 3**](Quizzes/Unit%203%20-%20Optimization%20Techniques.pdf) | Optimization Techniques | 10/10 |
+| 4 | [**Quiz 4**](Quizzes/Unit%204%20-%20Regression%20%26%20Tree.pdf) | Regression & Tree | 10/10 |
+| 5 | [**Quiz 5**](Quizzes/Unit%205%20-%20Classification%20%26%20Clustering.pdf) | Classification & Clustering | 10/10 |
+| 6 | [**Quiz 6**](Quizzes/Unit%206%20-%20PCA.pdf) | PCA | 10/10 |
 
 ---
 
