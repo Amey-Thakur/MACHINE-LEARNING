@@ -98,11 +98,11 @@ Study materials and planning resources for effective exam preparation:
 
 Academic assignments for comprehensive learning and practice:
 
-| # | Assignment | Description | Resource |
-|:-:|:---|:---|:-:|
-| 1 | Assignment 1 | Machine Learning Assignment 1 | [View](Assignments/Amey_B-50_ML_Assignment-1.pdf) |
-| 2 | Assignment 2 | Machine Learning Assignment 2 | [View](Assignments/Amey_B-50_ML_Assignment-2.pdf) |
-| 3 | Assignment 3 | Machine Learning Assignment 3 | [View](Assignments/Amey_B-50_ML_Assignment-3.docx) |
+| # | Assignment | Description | Date |
+|:-:|:---|:---|:---:|
+| 1 | [**Assignment 1**](Assignments/Amey_B-50_ML_Assignment-1.pdf) | Issues & Applications of ML, Types of Learning, ANN Architecture, McCulloch-Pitts Model | April 28, 2021 |
+| 2 | [**Assignment 2**](Assignments/Amey_B-50_ML_Assignment-2.pdf) | Markov Chain Models, Expectation-Maximization (EM) Algorithm, Radial Basis Function Network (RBFN) | May 03, 2021 |
+| 3 | [**Assignment 3**](Assignments/Amey_B-50_ML_Assignment-3.pdf) | Dimensionality Reduction (PCA), Optimization (Hill Simplex, Steepest Descent), SVD, Regression & Decision Trees | — |
 
 ---
 
