@@ -180,9 +180,9 @@ Final semester examination submission:
 
 | # | Resource | Description | Date |
 |:-:|:---|:---|:---:|
-| 1 | [Question 2](Semester%20Exam/Q2_61021145_ML.pdf) | ML Semester Exam Answer Sheet (Q2) | June 11, 2021 |
-| 2 | [Question 3](Semester%20Exam/Q3_61021145_ML.pdf) | ML Semester Exam Answer Sheet (Q3) | June 11, 2021 |
-| 3 | [MCQ](Semester%20Exam/MCQ_TE-B_ML_R16_Block2.pdf) | ML Semester Exam MCQ Paper | June 11, 2021 |
+| 1 | [MCQ](Semester%20Exam/MCQ_TE-B_ML_R16_Block2.pdf) | ML Semester Exam MCQ Paper | June 11, 2021 |
+| 2 | [Question 2](Semester%20Exam/Q2_61021145_ML.pdf) | ML Semester Exam Answer Sheet (Q2) | June 11, 2021 |
+| 3 | [Question 3](Semester%20Exam/Q3_61021145_ML.pdf) | ML Semester Exam Answer Sheet (Q3) | June 11, 2021 |
 | 4 | [Raw Submission](Semester%20Exam/61021145.docx) | Semester Exam Submission Document | June 11, 2021 |
 
 **Additional Resources:**
