@@ -104,6 +104,8 @@ Academic assignments for comprehensive learning and practice:
 | 2 | [**Assignment 2**](Assignments/Amey_B-50_ML_Assignment-2.pdf) | Markov Chain Models, Expectation-Maximization (EM) Algorithm, Radial Basis Function Network (RBFN) | May 03, 2021 |
 | 3 | [**Assignment 3**](Assignments/Amey_B-50_ML_Assignment-3.pdf) | Dimensionality Reduction (PCA), Optimization (Hill Simplex, Steepest Descent), SVD, Regression & Decision Trees | — |
 
+**Topics Covered**: Issues in Machine Learning · Applications of ML · Types of Learning · ANN Architecture · McCulloch-Pitts Model · Markov Chain Models · Expectation-Maximization (EM) Algorithm · Radial Basis Function Network (RBFN) · Dimensionality Reduction (PCA) · Singular Value Decomposition (SVD) · Optimization Techniques (Hill Simplex, Steepest Descent) · Least Squares Regression · Decision Trees (Gini Index)
+
 ---
 
 <!-- =========================================================================================
