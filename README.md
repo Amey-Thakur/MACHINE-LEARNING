@@ -164,7 +164,7 @@ Internal assessment evaluations conducted during the course:
 
 | # | Resource | Description |
 |:-:|:---|:---|
-| 1 | [ML IAT Resource](Internal%20Assessment%20Test/ML.pdf) | Internal Assessment Reference |
+| 1 | [Answer Sheet Template](Internal%20Assessment%20Test/ML.pdf) | IAT Answer Sheet Template |
 
 ---
 
