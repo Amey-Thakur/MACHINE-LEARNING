@@ -113,7 +113,7 @@ Academic assignments for comprehensive learning and practice:
      ========================================================================================= -->
 ### Quizzes
 
-Subject-specific quizzes conducted during the course:
+ML-specific quizzes conducted during the course:
 
 | # | Quiz | Description | Date | Marks |
 |:-:|:---|:---|:---:|:-:|
