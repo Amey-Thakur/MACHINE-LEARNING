@@ -78,7 +78,6 @@ This collection includes **comprehensive reference materials** covering major to
 | 6 | [ML - IMCQ](Reference%20Books/ML-IMCQ.pdf) | Important MCQs for exams |
 | 7 | [BH Plan](Reference%20Books/BH%20Plan.pdf) | Study planning and strategy |
 | 8 | [Frequency Table](Reference%20Books/Frequency%20Table.pdf) | Topic frequency analysis for exams |
-| 9 | [ML Notes](Reference%20Books/ML.pdf) | Machine Learning Notes |
 
 ---
 
@@ -191,6 +190,7 @@ Final semester examination submission:
 | 1 | [Answer Sheet Template](Semester%20Exam/ANSWER%20SHEET%20-%20ML.docx) | Semester Exam Answer Sheet Template |
 | 2 | [Questions Document](Semester%20Exam/ML_QUESTIONS.docx) | ML Exam Questions |
 | 3 | [Reference Document](Semester%20Exam/ML.pdf) | ML Exam Reference |
+| 4 | [ML Notes](Semester%20Exam/ML_Notes.pdf) | Machine Learning Notes |
 
 ---
 
