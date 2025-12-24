@@ -16,7 +16,7 @@
  
  - [Semester 6 Timetable](https://github.com/Amey-Thakur/MACHINE-LEARNING/blob/main/SEMESTER%20VI.jpeg)
  
- - Department Level Optional Subject Choice [Machine Learning](https://github.com/Amey-Thakur/MACHINE-LEARNING/blob/main/Department%20level%20subject%20choice%20for%20TE%20Sem%20VI_%20FH%202021.pdf)
+ - Department Level Optional Subject Choice [Machine Learning](https://github.com/Amey-Thakur/MACHINE-LEARNING/blob/main/Department%20level%20subject%20choice%20for%20TE%20Sem%20VI%20-%20FH%202021.pdf)
 
 
 ## Assignments
@@ -45,7 +45,7 @@
 
 ## Mock Test
  
- - [Technical Mock Test](https://github.com/Amey-Thakur/MACHINE-LEARNING/blob/main/Technical%20Mock%20Test-%20For%20Terna%20Engineering%20College%20by%20Campus%20Corners!.pdf)
+ - [Technical Mock Test](https://github.com/Amey-Thakur/MACHINE-LEARNING/blob/main/Technical%20Mock%20Test%20-%20For%20Terna%20Engineering%20College%20by%20Campus%20Corners.pdf)
 
 
 ## Internal Assessment Test
@@ -69,8 +69,9 @@
  
  - [Report](https://github.com/Amey-Thakur/MACHINE-LEARNING/blob/main/Submission%20Report/Amey_B-50_ML_Term_Work_Submission_Report.pdf)
 
+
 ---
 
 <p align="center"> <b> 👉🏻 Subject as a part of the 6th Semester of Engineering @ University of Mumbai 👈🏻 <b> </p>
  
-<p align="center"><a href='https://github.com/Amey-Thakur/COMPUTER-ENGINEERING', style='color: greenyellow;'> ✌🏻 Back To Engineering ✌🏻</p>
+<p align="center"><a href='https://github.com/Amey-Thakur/COMPUTER-ENGINEERING', style='color: greenyellow;'> ✌🏻 Back to Engineering ✌🏻</p>
