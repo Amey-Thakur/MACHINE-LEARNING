@@ -150,15 +150,15 @@ Internal assessment evaluations conducted during the course:
 
 | # | Resource | Description | Marks |
 |:-:|:---|:---|:---:|
-| 1 | [Answer Sheet](Internal%20Assessment%20Test/Amey_B-50_ML_IAT-1.pdf) | ML Internal Assessment Test 1 Answer Sheet | 17/20 |
-| 2 | [Descriptive Questions](Internal%20Assessment%20Test/6056ML-Descriptive-IA-1.pdf) | IAT 1 Descriptive Questions | — |
+| 1 | [Question Paper](Internal%20Assessment%20Test/6056ML-Descriptive-IA-1.pdf) | ML Internal Assessment Test 1 Question Paper | — |
+| 2 | [Answer Sheet](Internal%20Assessment%20Test/Amey_B-50_ML_IAT-1.pdf) | ML Internal Assessment Test 1 Answer Sheet | 17/20 |
 | 3 | [MCQ](Internal%20Assessment%20Test/ML-MCQ.png) | ML Internal Assessment Test 1 MCQ | — |
 
 ### IAT - 2
 
-| # | Resource | Description |
-|:-:|:---|:---|
-| 1 | [Answer Sheet](Internal%20Assessment%20Test/AMEY_B-50_ML_IAT-2.pdf) | ML Internal Assessment Test 2 Answer Sheet |
+| # | Resource | Description | Marks |
+|:-:|:---|:---|:---:|
+| 1 | [Answer Sheet](Internal%20Assessment%20Test/AMEY_B-50_ML_IAT-2.pdf) | ML Internal Assessment Test 2 Answer Sheet | — |
 
 **Additional Resources:**
 
