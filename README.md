@@ -192,7 +192,7 @@ Final semester examination submission:
 | 2 | [Questions Document](Semester%20Exam/ML_QUESTIONS.docx) | ML Exam Questions |
 | 3 | [Reference Document](Semester%20Exam/ML.pdf) | ML Exam Reference |
 | 4 | [ML Answersheet Template](Semester%20Exam/ML_Answersheet_Template.pdf) | Answer Sheet Layout |
-| 5 | [Seat No](Semester%20Exam/61021145.docx) | Semester Exam Submission Document |
+| 5 | [Seat No](Semester%20Exam/61021145.docx) | Seat No Word Doc |
 
 ---
 
