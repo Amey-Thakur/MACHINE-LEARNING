@@ -18,7 +18,7 @@
 
   ---
 
-  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Quizzes](#quizzes) &nbsp;·&nbsp; [Mock Test](#mock-test) &nbsp;·&nbsp; [IAT](#internal-assessment-test) &nbsp;·&nbsp; [Semester Exam](#semester-exam) &nbsp;·&nbsp; [Question Papers](#question-papers) &nbsp;·&nbsp; [Submission Report](#submission-completion-report) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Quizzes](#quizzes) &nbsp;·&nbsp; [Mock Test](#mock-test) &nbsp;·&nbsp; [Internal Assessment Test](#internal-assessment-test) &nbsp;·&nbsp; [Semester Exam](#semester-exam) &nbsp;·&nbsp; [Question Papers](#question-papers) &nbsp;·&nbsp; [Submission Report](#submission-completion-report) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 </div>
 
@@ -100,9 +100,9 @@ Academic assignments for comprehensive learning and practice:
 
 | # | Assignment | Description | Date | Marks |
 |:-:|:---|:---|:---:|:-:|
-| 1 | [**Assignment 1**](Assignments/Amey_B-50_ML_Assignment-1.pdf) | Issues & Applications of ML, Types of Learning, ANN Architecture, McCulloch-Pitts Model | April 28, 2021 | 9/10 |
-| 2 | [**Assignment 2**](Assignments/Amey_B-50_ML_Assignment-2.pdf) | Markov Chain Models, Expectation-Maximization (EM) Algorithm, Radial Basis Function Network (RBFN) | May 03, 2021 | 9/10 |
-| 3 | [**Assignment 3**](Assignments/Amey_B-50_ML_Assignment-3.pdf) | Dimensionality Reduction (PCA), Optimization (Hill Simplex, Steepest Descent), SVD, Regression & Decision Trees | May 03, 2021 | 9/10 |
+| 1 | [Assignment 1](Assignments/Amey_B-50_ML_Assignment-1.pdf) | Issues & Applications of ML, Types of Learning, ANN Architecture, McCulloch-Pitts Model | April 28, 2021 | 9/10 |
+| 2 | [Assignment 2](Assignments/Amey_B-50_ML_Assignment-2.pdf) | Markov Chain Models, Expectation-Maximization (EM) Algorithm, Radial Basis Function Network (RBFN) | May 03, 2021 | 9/10 |
+| 3 | [Assignment 3](Assignments/Amey_B-50_ML_Assignment-3.pdf) | Dimensionality Reduction (PCA), Optimization (Hill Simplex, Steepest Descent), SVD, Regression & Decision Trees | May 03, 2021 | 9/10 |
 
 **Topics Covered**: Issues in Machine Learning · Applications of ML · Types of Learning · ANN Architecture · McCulloch-Pitts Model · Markov Chain Models · Expectation-Maximization (EM) Algorithm · Radial Basis Function Network (RBFN) · Dimensionality Reduction (PCA) · Singular Value Decomposition (SVD) · Optimization Techniques (Hill Simplex, Steepest Descent) · Least Squares Regression · Decision Trees (Gini Index)
 
@@ -117,12 +117,12 @@ ML-specific quizzes conducted during the course:
 
 | # | Quiz | Topics | Marks |
 |:-:|:---|:---|:---:|
-| 1 | [**Quiz 1**](Quizzes/Unit%201%20-%20Introduction.pdf) | Introduction on Machine Learning | 10/10 |
-| 2 | [**Quiz 2**](Quizzes/Unit%202%20-%20Neural%20Network.pdf) | Neural Network | 10/10 |
-| 3 | [**Quiz 3**](Quizzes/Unit%203%20-%20Optimization%20Techniques.pdf) | Optimization Techniques | 10/10 |
-| 4 | [**Quiz 4**](Quizzes/Unit%204%20-%20Regression%20%26%20Tree.pdf) | Regression & Tree | 10/10 |
-| 5 | [**Quiz 5**](Quizzes/Unit%205%20-%20Classification%20%26%20Clustering.pdf) | Classification & Clustering | 10/10 |
-| 6 | [**Quiz 6**](Quizzes/Unit%206%20-%20PCA.pdf) | PCA | 10/10 |
+| 1 | [Quiz 1](Quizzes/Unit%201%20-%20Introduction.pdf) | Introduction on Machine Learning | 10/10 |
+| 2 | [Quiz 2](Quizzes/Unit%202%20-%20Neural%20Network.pdf) | Neural Network | 10/10 |
+| 3 | [Quiz 3](Quizzes/Unit%203%20-%20Optimization%20Techniques.pdf) | Optimization Techniques | 10/10 |
+| 4 | [Quiz 4](Quizzes/Unit%204%20-%20Regression%20%26%20Tree.pdf) | Regression & Tree | 10/10 |
+| 5 | [Quiz 5](Quizzes/Unit%205%20-%20Classification%20%26%20Clustering.pdf) | Classification & Clustering | 10/10 |
+| 6 | [Quiz 6](Quizzes/Unit%206%20-%20PCA.pdf) | PCA | 10/10 |
 
 ---
 
@@ -135,7 +135,7 @@ Technical mock test conducted for placement preparation:
 
 | # | Resource | Description |
 |:-:|:---|:---|
-| 1 | [**Technical Mock Test**](Technical%20Mock%20Test%20-%20For%20Terna%20Engineering%20College%20by%20Campus%20Corners.pdf) | Campus Corners Mock Test for Terna Engineering College |
+| 1 | [Technical Mock Test](Technical%20Mock%20Test%20-%20For%20Terna%20Engineering%20College%20by%20Campus%20Corners.pdf) | Campus Corners Mock Test for Terna Engineering College |
 
 ---
 
@@ -242,7 +242,7 @@ Course completion documentation:
      ========================================================================================= -->
 ## Syllabus
 
-> [Official CBCGS Syllabus](Syllabus/TE%20BE%20Comp%20Engg%20CBCGS%20Syllabus.pdf)  
+> [**Official CBCGS Syllabus**](Syllabus/TE%20BE%20Comp%20Engg%20CBCGS%20Syllabus.pdf)  
 > Complete Third Year Computer Engineering syllabus document from the University of Mumbai, including detailed course outcomes, assessment criteria, and module specifications for Machine Learning.
 
 > [!IMPORTANT]
@@ -308,9 +308,9 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 <div align="center">
 
   <!-- Footer Navigation -->
-  **[↑ Back to Top](#machine-learning)**
+  [↑ Back to Top](#machine-learning)
 
-  **[Overview](#overview)** &nbsp;·&nbsp; **[Contents](#repository-contents)** &nbsp;·&nbsp; **[Reference Books](#reference-books)** &nbsp;·&nbsp; **[Personal Preparation](#personal-preparation)** &nbsp;·&nbsp; **[Assignments](#assignments)** &nbsp;·&nbsp; **[Quizzes](#quizzes)** &nbsp;·&nbsp; **[Mock Test](#mock-test)** &nbsp;·&nbsp; **[IAT](#internal-assessment-test)** &nbsp;·&nbsp; **[Semester Exam](#semester-exam)** &nbsp;·&nbsp; **[Question Papers](#question-papers)** &nbsp;·&nbsp; **[Submission Report](#submission-completion-report)** &nbsp;·&nbsp; **[Syllabus](#syllabus)** &nbsp;·&nbsp; **[Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[License](#license)** &nbsp;·&nbsp; **[About](#about-this-repository)** &nbsp;·&nbsp; **[Acknowledgments](#acknowledgments)**
+  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Quizzes](#quizzes) &nbsp;·&nbsp; [Mock Test](#mock-test) &nbsp;·&nbsp; [Internal Assessment Test](#internal-assessment-test) &nbsp;·&nbsp; [Semester Exam](#semester-exam) &nbsp;·&nbsp; [Question Papers](#question-papers) &nbsp;·&nbsp; [Submission Report](#submission-completion-report) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 </div>
 
