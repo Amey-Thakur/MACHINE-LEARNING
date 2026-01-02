@@ -1,27 +1,23 @@
-# ALL REPOSITORIES
-# ----------------
-# General
+# Machine Learning - Academic Repository
+# Specialized .gitignore for data science and scholarly archiving
+
+# OS-generated files
+[Tt]humbs.db
+[Dd]esktop.ini
 .DS_Store
-Thumbs.db
-*.swp
-*.log
-*.tmp
-*.bak
-*~
+.AppleDouble
+.LSOverride
 
-# Windows
-desktop.ini
-$RECYCLE.BIN/
-
-# VS Code
+# Editor and IDE configuration
 .vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.iml
 *.code-workspace
 
-# JetBrains
-.idea/
-*.iml
-
-# Python
+# Python Build Artifacts
 __pycache__/
 *.py[cod]
 *$py.class
@@ -41,7 +37,7 @@ env/
 ~$*.xls
 ~$*.xlsx
 
-# LaTeX (if used)
+# LaTeX / Document Artifacts
 *.aux
 *.bbl
 *.blg
@@ -51,6 +47,8 @@ env/
 *.lot
 *.out
 *.toc
+*.log
+*.synctex.gz
 
 # Archives
 *.zip
@@ -58,5 +56,13 @@ env/
 *.rar
 *.7z
 
-# Git
+# Temporary and Cache files
+*.tmp
+*.log
+.cache/
+
+# Academic build/output artifacts
+*.bak
+*.sav
+*.old
 *.orig
