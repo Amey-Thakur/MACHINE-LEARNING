@@ -52,7 +52,7 @@ As a computer engineer, understanding machine learning paradigms is crucial for 
 
 - **Knowledge Preservation**: To maintain organized access to comprehensive study materials beyond the classroom.
 - **Continuous Learning**: To support lifelong learning by enabling easy revisitation of fundamental ML concepts.
-- **Academic Documentation**: To authentically document my learning journey through the ML curriculum.
+- **Academic Documentation**: To authentically document my learning journey through the Machine Learning curriculum.
 - **Community Contribution**: To share these resources with students and learners who may benefit from them.
 
 > [!NOTE]
