@@ -1,0 +1,43 @@
+# Machine Learning
+
+> CSDLO6021: Machine Learning [ML] | TE Semester VI | Computer Engineering
+
+Author: Amey Thakur, ORCID 0000-0001-5644-1575
+Co-author: Mega Satish, ORCID 0000-0002-1844-9557
+Institution: Terna Engineering College, University of Mumbai
+Programme: B.E. Computer Engineering, Third Year, Semester VI
+Course code: CSDLO6021
+Licence: CC BY 4.0, attribution required
+Repository created: 30 July 2021
+Work dated: 28 August 2021
+
+## What is in this repository
+
+- Assignments, 6 files
+- Internal Assessment Test, 6 files
+- Question Papers, 32 files
+- Quizzes, 6 files
+- Reference Books, 8 files
+- Semester Exam, 8 files
+- Submission Report, 2 files
+- Syllabus, 2 files
+- Blueprint (ML).png
+- Computer Semester 6 Timetable.pdf
+- Department level subject choice for TE Sem VI - FH 2021.pdf
+- SEMESTER VI.jpeg
+- Technical Mock Test - For Terna Engineering College by Campus Corners.pdf
+
+## Subject terms
+
+classification-algorithms, clustering-analysis, computer-engineering,
+computer-science, decision-trees, dimensionality-reduction, engineering,
+machine-learning, machine-learning-algorithms, neural-networks,
+optimization-techniques, principal-component-analysis,
+regression-analysis, textbooks, university-of-mumbai
+
+## Where this sits
+
+- This repository: https://github.com/Amey-Thakur/MACHINE-LEARNING
+- Degree index, every subject and project: https://github.com/Amey-Thakur/COMPUTER-ENGINEERING
+- Author: https://github.com/Amey-Thakur
+- Research notes and reflections: https://amey-thakur.github.io/
